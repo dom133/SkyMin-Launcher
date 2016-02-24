@@ -74,6 +74,7 @@
     }
   ],
   "mainClass": "net.minecraft.launchwrapper.Launch",
+  "tweakClass": "cpw.mods.fml.common.launcher.FMLTweaker",
   "minimumLauncherVersion": 14,
   "assets": "1.7.10",
   "jar": "1.7.10"
